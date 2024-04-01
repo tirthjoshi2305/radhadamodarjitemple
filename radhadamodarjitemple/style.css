@@ -1,0 +1,42 @@
+.navbar-brand img {
+    max-height: 50px; 
+  }
+  #id1
+  {
+      text-align: right;
+  }
+
+  footer {
+      background-color: orange;
+      color: #fff;
+      padding: 20px;
+  }
+
+  .footer-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+  }
+
+  .footer-address {
+      flex-basis: 40%;
+      margin-bottom: 10px;
+  }
+
+  .footer-links {
+      flex-basis: 40%;
+      display: flex;
+      justify-content: space-between;
+      
+  }
+
+  .footer-links a {
+      color: #fff;
+      text-decoration: none;
+  }
+
+  .footer-contact {
+      flex-basis: 20%;
+      text-align: right;
+  }
